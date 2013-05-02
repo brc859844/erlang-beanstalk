@@ -1,0 +1,7 @@
+{application, beanstalk, [
+    {description, "Erlang Beanstalkd Client"},
+    {vsn, "1.0.4"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib]}
+]}.
